@@ -2,7 +2,7 @@
 
 Build, Design, and Deploy Cloud-Native Applications and Microservices with Jakarta EE
 
-This is the repository for [Cloud Native Applications with Jakarta EE](https://in.bpbonline.com/products/cloud-native-applications-with-jakarta-ee), published by BPB Publications.
+This is the code repository for [Cloud Native Applications with Jakarta EE](https://in.bpbonline.com/products/cloud-native-applications-with-jakarta-ee), published by BPB Publications. It contains all the supporting project files necessary to work through the journey of this book
 
 ## About the Book
 The book helps readers to get a basic understanding of features provided by the cloud and core concepts of cloud native development. A hands-on approach makes sure that after reading the book, one can straight away implement the concepts in their daily design and development activities. 
